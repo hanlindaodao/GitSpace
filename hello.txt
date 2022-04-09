@@ -10,3 +10,8 @@ hot-fix has change
 我在最下边加了一行，这个是在网页上加上去的，想着等会儿直接用git pull GitSpace master去拉取
 
 我再在浏览器加一行 ，试试行不行
+
+再测试一下ssh的push
+目前用到的ssh连接是：git@github.com:hanlindaodao/GitSpace.git
+命令是git push git@github.com:hanlindaodao/GitSpace.git master
+不知道可不可以重命名
